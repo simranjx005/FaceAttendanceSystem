@@ -1,0 +1,12 @@
+opencv-python
+numpy
+pandas
+sqlalchemy
+flask
+flask-cors
+torch
+torchvision
+facenet-pytorch
+scikit-learn
+pillow
+tqdm
